@@ -1,22 +1,13 @@
 # SQL Server Shortcuts Scripts for SSMS
 
-## [Ctrl + 0](https://github.com/GersonJunior12/sql-server-shortcuts/tree/main/Ctrl%20%2B%200)
-Select top first 1000 rows of table.
-
-## Ctrl + 5
-Generates a INSERT statement for a block of SELECT result.
-
-## Ctrl + 7
-Find which objects a table is used.
-
-## Ctrl + 8
-Find all objects with a specific name.
-
-## Ctrl + 9
-Displays all table coluns separated by comma.
-
-## Ctrl + F1
-Generates a CREATE statement for a table.
+| Shortcut | Description |
+| -------- | ----------- |
+| [Ctrl + 0](https://github.com/GersonJunior12/sql-server-shortcuts/tree/main/Ctrl%20%2B%200) | Select top first 1000 rows of table. |
+| [Ctrl + 5](https://github.com/GersonJunior12/sql-server-shortcuts/tree/main/Ctrl%20%2B%205) | Generates a INSERT statement for a block of SELECT result. |
+| [Ctrl + 7](https://github.com/GersonJunior12/sql-server-shortcuts/tree/main/Ctrl%20%2B%207) | Find which objects a table is used. |
+| [Ctrl + 8](https://github.com/GersonJunior12/sql-server-shortcuts/tree/main/Ctrl%20%2B%208) | Find all objects with a specific name. |
+| [Ctrl + 9](https://github.com/GersonJunior12/sql-server-shortcuts/tree/main/Ctrl%20%2B%209) | Displays all table coluns separated by comma. |
+| [Ctrl + F1](https://github.com/GersonJunior12/sql-server-shortcuts/tree/main/Ctrl%20%2B%20F1) | Generates a CREATE statement for a table. |
 
 ## How to configure shortcuts in SSMS
 
