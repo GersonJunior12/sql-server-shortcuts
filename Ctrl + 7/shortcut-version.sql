@@ -1,0 +1,1 @@
+sp_executesql N'SELECT 	schema_name(o.uid) + ''.'' + o.name full_name, 	o.name, 	o.id id, 	o.xtype, 	o.crdate, 	o.refdate FROM syscomments c INNER JOIN sysobjects o ON c.id = o.id WHERE c.text LIKE ''%'' + @TableName + ''%''', N'@TableName nvarchar(776)', @TableName =
