@@ -1,4 +1,4 @@
-# Usage Example
+# Select top first 1000 rows of table
 
 Select the table name
 
