@@ -4,7 +4,7 @@ Select the table name
 
 ![image](https://github.com/user-attachments/assets/be48ec5f-5f04-41db-9985-a5b8a9aae8ff)
 
-Or when you have schema, you need to surround with quotation marks
+Or when you have schema, you need to wrap with single quotes
 
 ![image](https://github.com/user-attachments/assets/67635cf3-82af-444f-aa1e-5d1bf5b2b54f)
 
