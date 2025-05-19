@@ -1,5 +1,7 @@
 # SQL Server Shortcuts Scripts for SSMS
 
+Shortcut scripts to help your daily activities.
+
 | Shortcut | Description |
 | -------- | ----------- |
 | [Ctrl + 0](https://github.com/GersonJunior12/sql-server-shortcuts/tree/main/Ctrl%20%2B%200) | Select top first 1000 rows of table. |
