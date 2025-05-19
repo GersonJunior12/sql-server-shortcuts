@@ -1,4 +1,6 @@
-# Usage Example
+# Find in which objects a table is used
+
+## Usage Example
 
 Select the table name
 
