@@ -1,4 +1,4 @@
-# Usage Example
+# Generates a INSERT statement for a block of SELECT result
 
 Select the script you want to convert the results in a INSERT statement wraped by single quotes
 
