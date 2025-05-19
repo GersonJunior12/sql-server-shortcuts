@@ -1,6 +1,6 @@
 # SQL Server Shortcuts Scripts for SSMS
 
-## Ctrl + 0
+## [Ctrl + 0](https://github.com/GersonJunior12/sql-server-shortcuts/tree/main/Ctrl%20%2B%200)
 Select top first 1000 rows of table.
 
 ## Ctrl + 5
@@ -22,11 +22,14 @@ Generates a CREATE statement for a table.
 
 Open Microsoft SQL Server Management Studio
 Click in menu `Tools` and after in `Options`
+
 ![image](https://github.com/user-attachments/assets/77c61b19-7a5c-408b-95a1-ef57524a5a88)
 
 Find `Keyboard` option and click in `Query Shortcuts`
+
 ![image](https://github.com/user-attachments/assets/18fba63f-b0ad-4e73-8d57-313dbede57b9)
 
 Double click to edit shortcut and paste the script you want
+
 ![image](https://github.com/user-attachments/assets/c051688b-ec37-4e7e-b7b8-46401055c7b3)
 
